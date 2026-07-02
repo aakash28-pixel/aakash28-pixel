@@ -16,5 +16,7 @@ I specialize in building intelligent, scalable, and secure applications by bridg
 *   **Methodologies:** Vibe Coding, Agile Prototyping, Prompt Engineering
 
 ### 📫 Let's Connect
-I'm always open to discussing innovative tech, app security, or exciting development roles. 
-*   **Portfolio:** [guardshield.uk](https://guardshield.uk)
+I'm always open to discussing innovative tech, app security, or exciting development roles. Let's connect and build something great!
+
+*   **LinkedIn:** [linkedin.com/in/aakash-ali](https://www.linkedin.com/in/aakash-ali-768ab023a/)
+*   **Live Project:** [guardshield.uk](https://guardshield.uk)
