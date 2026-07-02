@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Aakash Ali 👋
 
-<!--
-**aakash28-pixel/aakash28-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-Assisted Software Engineer (Vibe Coder) | Mobile App Developer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+I specialize in building intelligent, scalable, and secure applications by bridging the gap between natural language prompts and production-ready code. As a modern "Vibe Coder," I leverage AI workflows to accelerate development, architect complex logic, and deliver premium user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+*   📱 **Cross-Platform Development:** Building seamless mobile apps.
+*   🛡️ **Cybersecurity & Privacy:** Engineering solutions like *Guardian Shield* to protect user data.
+*   🏗️ **Enterprise Solutions:** Digitizing real-world business operations like *Site Control Pro*.
+*   🤖 **AI Workflows:** Utilizing advanced prompt engineering to optimize backend integrations (Firebase/Supabase) and rapid UI prototyping.
+
+### 🛠️ Tech Stack & Tools
+*   **Languages & Frameworks:** Flutter, Dart, Kotlin, HTML/CSS
+*   **Backend & Cloud:** Firebase, Supabase, Cloudflare, Netlify
+*   **Methodologies:** Vibe Coding, Agile Prototyping, Prompt Engineering
+
+### 📫 Let's Connect
+I'm always open to discussing innovative tech, app security, or exciting development roles. 
+*   **Portfolio:** [guardshield.uk](https://guardshield.uk)
